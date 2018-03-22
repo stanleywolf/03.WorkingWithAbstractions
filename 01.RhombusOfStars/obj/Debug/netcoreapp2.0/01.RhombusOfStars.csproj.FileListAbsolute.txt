@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\01.RhombusOfStars\bin\Debug\netcoreapp2.0\01.RhombusOfStars.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\01.RhombusOfStars\bin\Debug\netcoreapp2.0\01.RhombusOfStars.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\01.RhombusOfStars\bin\Debug\netcoreapp2.0\01.RhombusOfStars.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\01.RhombusOfStars\bin\Debug\netcoreapp2.0\01.RhombusOfStars.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\01.RhombusOfStars\bin\Debug\netcoreapp2.0\01.RhombusOfStars.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\01.RhombusOfStars\obj\Debug\netcoreapp2.0\01.RhombusOfStars.pdb

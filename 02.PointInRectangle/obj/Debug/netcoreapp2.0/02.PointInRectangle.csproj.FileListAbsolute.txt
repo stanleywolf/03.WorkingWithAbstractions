@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\02.PointInRectangle\bin\Debug\netcoreapp2.0\02.PointInRectangle.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\03.WorkingWithAbstractions\02.PointInRectangle\obj\Debug\netcoreapp2.0\02.PointInRectangle.pdb
